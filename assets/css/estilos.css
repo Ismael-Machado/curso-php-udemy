@@ -60,6 +60,72 @@ body {
     box-shadow: 5px 6px 14px -4px rgba(0,0,0,0.75);
 }
 
+.modulos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.modulo {
+    flex-basis: 32%;
+}
+
+.modulo > h3 {
+    margin: 0px; 
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    background-color: #1867c0;
+}
+
+.modulo > ul {
+    margin: 0px;
+    padding: 10px;
+    list-style: none;
+}
+
+.modulo > ul > li {
+    padding: 10px;
+    font-size: 1.3rem;
+    cursor: pointer;
+
+}
+
+.modulo > ul > li > a {
+    display: flex;
+    text-decoration: none;
+    color: #222;
+}
+
+.modulo > ul > li:hover {
+    background-color: #EEE;
+}
+
+.modulo.cor { border: 2px solid ; }
+.modulo.cor > h3 { background-color: ; }
+
+.modulo.cor { border: 2px solid ; }
+.modulo.cor > h3 { background-color: ; }
+
+.modulo.cor { border: 2px solid ; }
+.modulo.cor > h3 { background-color: ; }
+
+.modulo.cor { border: 2px solid ; }
+.modulo.cor > h3 { background-color: ; }
+
+.modulo.cor { border: 2px solid ; }
+.modulo.cor > h3 { background-color: ; }
+
+.modulo.cor { border: 2px solid ; }
+.modulo.cor > h3 { background-color: ; }
+
+.modulo.cor { border: 2px solid ; }
+.modulo.cor > h3 { background-color: ; }
+
+.modulo.cor { border: 2px solid ; }
+.modulo.cor > h3 { background-color: ; }
+
 .rodape {
     grid-area: rodape;
     background-color: rgb(14, 66, 66);
