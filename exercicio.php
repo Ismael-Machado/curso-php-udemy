@@ -30,17 +30,17 @@
 
   </header>
   <nav class="navegacao">
-    <a href="#" class="verde">Sem formatação</a>
+    <a href=<?= "{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
     <a href="index.php" class="vermelho">Voltar</a>
   </nav>
   <main class="principal">
     <div class="conteudo">
-           
+           <?php include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php") ?>
     </div>
   </main>
 
   <footer class="rodape">
-    COD3R & ALUNOS &copy <?php date('Y'); ?> - Ismael Machado
+    COD3R & ALUNOS &copy <?= date('Y'); ?> - Ismael Machado
   </footer>
 
 

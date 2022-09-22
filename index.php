@@ -34,11 +34,14 @@
         <div class="modulo verde">
           <h3>Módulo 01 - Básico</h3>
           <ul>
-            <li><a href="exercicio.php">Exercício A</a></li>
+            <li><a href="exercicio.php?dir=teste&file=teste">Exercício A</a></li>
+            <!--
             <li><a href="#">Exercício B</a></li>
             <li><a href="#">Exercício C</a></li>
+            -->
           </ul>
         </div>
+        <!-- 
         <div class="modulo vermelho">
           <h3>Módulo 02</h3>
           <ul>
@@ -103,13 +106,13 @@
             <li><a href="#">Exercício C</a></li>
           </ul>
         </div>
-
+        -->
       </nav>
     </div>
   </main>
 
   <footer class="rodape">
-    COD3R & ALUNOS &copy <?php date('D'); ?> - Ismael Machado
+    COD3R & ALUNOS &copy <?php date('Y'); ?> - Ismael Machado
   </footer>
 
 
