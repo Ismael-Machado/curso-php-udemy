@@ -109,7 +109,7 @@
   </main>
 
   <footer class="rodape">
-    COD3R & ALUNOS &copy <?php date('Y'); ?> - Ismael Machado
+    COD3R & ALUNOS &copy <?php date('D'); ?> - Ismael Machado
   </footer>
 
 
