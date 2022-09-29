@@ -36,6 +36,7 @@
           <ul>
             <li><a href="exercicio.php?dir=basico&file=ola">Ola PHP</a></li>
             <li><a href="exercicio.php?dir=basico&file=html">Integração HTML</a></li>
+            <li><a href="exercicio.php?dir=basico&file=css">Integração CSS</a></li>
             <!--
             <li><a href="#">Exercício B</a></li>
             <li><a href="#">Exercício C</a></li>
