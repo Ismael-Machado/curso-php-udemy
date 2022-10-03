@@ -44,6 +44,11 @@
           <h3>Módulo 02 - Tipos</h3>
           <ul>
             <li><a href="exercicio.php?dir=tipos&file=int">Inteiros</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Op. aritméticas</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
           </ul>
         </div>
         <!--
