@@ -45,23 +45,32 @@
             -->
           </ul>
         </div>
-        <!-- 
+         
         <div class="modulo vermelho">
-          <h3>Módulo 02</h3>
+          <h3>Módulo 02 - Tipos</h3>
           <ul>
-            <li><a href="#">Exercício A</a></li>
-            <li><a href="#">Exercício B</a></li>
-            <li><a href="#">Exercício C</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=int">Inteiros</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Op. aritméticas</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=conversoes">Conversões</a></li>
           </ul>
         </div>
         <div class="modulo azul">
-          <h3>Módulo 03</h3>
+          <h3>Módulo 03 - Variáveis</h3>
           <ul>
-            <li><a href="#">Exercício A</a></li>
-            <li><a href="#">Exercício B</a></li>
-            <li><a href="#">Exercício C</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=basico">Basico</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a></li>
           </ul>
         </div>
+        <!--
         <div class="modulo roxo">
           <h3>Módulo 04</h3>
           <ul>
@@ -116,7 +125,7 @@
   </main>
 
   <footer class="rodape">
-    COD3R & ALUNOS &copy <?php date('Y'); ?> - Ismael Machado
+    COD3R & ALUNOS &copy <?= date('Y'); ?> - Ismael Machado
   </footer>
 
 
