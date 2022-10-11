@@ -25,12 +25,44 @@
   <header class="cabecalho">
     <h1>Curso PHP</h1>
     <h2>Indídice de Exercícios</h2>
-
+    
   </header>
-
+  
   <main class="principal">
     <div class="conteudo">
       <nav class="modulos">
+        
+       <div class="modulo roxo">
+         <h3>Módulo 04 - Controle</h3>
+         <ul>
+           <li><a href="exercicio.php?dir=controle&file=if_else">Condicionais - IF e ELSE</a></li>
+           <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores Relacionais</a></li>
+         </ul>
+       </div>
+        <div class="modulo azul">
+        <h3>Módulo 03 - Variáveis</h3>
+        <ul>
+            <li><a href="exercicio.php?dir=variaveis&file=basico">Basico</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a></li>
+          </ul>
+        </div>
+        <div class="modulo vermelho">
+          <h3>Módulo 02 - Tipos</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=tipos&file=int">Inteiros</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Op. aritméticas</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=conversoes">Conversões</a></li>
+          </ul>
+        </div>
         <div class="modulo verde">
           <h3>Módulo 01 - Básico</h3>
           <ul>
@@ -45,40 +77,7 @@
             -->
           </ul>
         </div>
-         
-        <div class="modulo vermelho">
-          <h3>Módulo 02 - Tipos</h3>
-          <ul>
-            <li><a href="exercicio.php?dir=tipos&file=int">Inteiros</a></li>
-            <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
-            <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Op. aritméticas</a></li>
-            <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
-            <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
-            <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
-            <li><a href="exercicio.php?dir=tipos&file=conversoes">Conversões</a></li>
-          </ul>
-        </div>
-        <div class="modulo azul">
-          <h3>Módulo 03 - Variáveis</h3>
-          <ul>
-            <li><a href="exercicio.php?dir=variaveis&file=basico">Basico</a></li>
-            <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
-            <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
-            <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
-            <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
-            <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
-            <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a></li>
-          </ul>
-        </div>
         <!--
-        <div class="modulo roxo">
-          <h3>Módulo 04</h3>
-          <ul>
-            <li><a href="#">Exercício A</a></li>
-            <li><a href="#">Exercício B</a></li>
-            <li><a href="#">Exercício C</a></li>
-          </ul>
-        </div>
         <div class="modulo laranja">
           <h3>Módulo 05</h3>
           <ul>
