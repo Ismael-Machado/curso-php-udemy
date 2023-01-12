@@ -32,6 +32,14 @@
     <div class="conteudo">
       <nav class="modulos">
         
+        <div class="modulo laranja">
+          <h3>Módulo 05 - Arrays</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=array&file=basico">Basico Array</a></li>
+            <li><a href="#">Exercício B</a></li>
+            <li><a href="#">Exercício C</a></li>
+          </ul>
+        </div>
        <div class="modulo roxo">
          <h3>Módulo 04 - Controle</h3>
          <ul>
@@ -84,14 +92,6 @@
           </ul>
         </div>
         <!--
-        <div class="modulo laranja">
-          <h3>Módulo 05</h3>
-          <ul>
-            <li><a href="#">Exercício A</a></li>
-            <li><a href="#">Exercício B</a></li>
-            <li><a href="#">Exercício C</a></li>
-          </ul>
-        </div>
         <div class="modulo verde-escuro">
           <h3>Módulo 06</h3>
           <ul>
