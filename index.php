@@ -32,6 +32,14 @@
     <div class="conteudo">
       <nav class="modulos">
         
+        <div class="modulo azul-escuro">
+          <h3>Módulo 08 - POO</h3>
+          <ul>
+            <li><a href="#">Exercício A</a></li>
+            <li><a href="#">Exercício B</a></li>
+            <li><a href="#">Exercício C</a></li>
+          </ul>
+        </div>
         <div class="modulo vermelho-escuro">
           <h3>Módulo 07 - Funções</h3>
           <ul>
@@ -127,14 +135,6 @@
           </ul>
         </div>
         <!--
-        <div class="modulo azul-escuro">
-          <h3>Módulo 08</h3>
-          <ul>
-            <li><a href="#">Exercício A</a></li>
-            <li><a href="#">Exercício B</a></li>
-            <li><a href="#">Exercício C</a></li>
-          </ul>
-        </div>
         <div class="modulo roxo-escuro">
           <h3>Módulo 09</h3>
           <ul>
