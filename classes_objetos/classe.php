@@ -23,3 +23,5 @@ $c2->idade = 43;
 
 echo $c1->apresentar(), '<br>';
 echo $c2->apresentar();
+
+?>
