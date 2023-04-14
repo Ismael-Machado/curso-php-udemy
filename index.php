@@ -43,6 +43,10 @@
             <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros Estáticos</a></li>
             <li><a href="exercicio.php?dir=classes_objetos&file=interface">Interface</a></li>
             <li><a href="exercicio.php?dir=classes_objetos&file=abstract">Classe Abstrata</a></li>
+            <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio Erros</a></li>
+            <li><a href="exercicio.php?dir=classes_objetos&file=final">Modificador Final</a></li>
+            <li><a href="exercicio.php?dir=classes_objetos&fileca=traits_01">Traits #01</a></li>
+            <li><a href="exercicio.php?dir=classes_objetos&fileca=traits_02">Traits #02</a></li>
            
           </ul>
         </div>
