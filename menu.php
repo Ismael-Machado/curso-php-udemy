@@ -1,5 +1,24 @@
 <nav class="modulos">
         
+        <div class="modulo verde">
+          <h3>Módulo 11 - Try/Catch</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">Erros personalizados</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_teste">Desafio IntDiv</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">Error Handler</a></li>
+            
+          </ul>
+        </div>  
+        <div class="modulo laranja-escuro">
+          <h3>Módulo 10 - Namespace</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=namespace&file=basico">Básico Namespace</a></li>
+            <li><a href="exercicio.php?dir=namespace&file=sub_namespaces">Sub-namespaces</a></li>
+            <li><a href="exercicio.php?dir=namespace&file=use_as">Use/As</a></li>
+            
+          </ul>
+        </div>  
         <div class="modulo roxo-escuro">
           <h3>Módulo 09 - Includes</h3>
           <ul>

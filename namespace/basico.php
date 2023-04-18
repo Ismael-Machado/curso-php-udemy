@@ -3,6 +3,8 @@
 <div class="titulo">Exemplo Básico</div>
 
 <?php
+
+// __NAMESPACE__;
 echo __NAMESPACE__ . '<br>';
 const constante1 = 123;
 define('contexto\constante2', 234);
