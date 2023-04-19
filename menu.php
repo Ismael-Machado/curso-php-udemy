@@ -1,5 +1,13 @@
 <nav class="modulos">
         
+        <div class="modulo vermelho">
+          <h3>Módulo 12 - Sessão e cookie</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Básico Sessão</a></li>
+            <li><a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessão</a></li>
+            
+          </ul>
+        </div>  
         <div class="modulo verde">
           <h3>Módulo 11 - Try/Catch</h3>
           <ul>
