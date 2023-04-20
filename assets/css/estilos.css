@@ -132,6 +132,9 @@ body {
 .modulo.laranja-escuro { border: 2px solid #E65527; }
 .modulo.laranja-escuro > h3 { background-color: #E65527; }
 
+.navegacao > a.verde { background-color: #4caf50; }
+.navegacao > a.vermelho { background-color: #f44336; }
+
 .rodape {
     grid-area: rodape;
     background-color: rgb(14, 66, 66);
@@ -171,4 +174,13 @@ body {
     background-color: #2196f3;
     padding: 5px 10px;
     margin-right: 10px;
+}
+
+span.usuario {
+    flex-grow: 1;
+    justify-self: flex-start;
+    color: #EEE;
+    padding-left: 10px;
+    font-size: 1.2rem;
+    font-weight: 300;
 }
