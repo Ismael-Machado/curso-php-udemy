@@ -27,7 +27,7 @@ if (move_uploaded_file($tmp, $arquivo)) {
 <ul>
     <?php foreach($arquivos as $arquivo): ?>
         <li>
-            <a href="../files/<?= $arquivo ?>">
+            <a href="../curso-php-udemy/files/<?= $arquivo ?>">
                 <?= $arquivo ?>
             </a>
         </li>
